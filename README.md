@@ -11,6 +11,7 @@ navigate to pages dedicated to displaying information only about that streaming 
 
 ### Usage
 The first thing the user will see is the Meta Data page along with the buttons to navigate to the specific pages as shown below.
+
 ![Metadata](https://user-images.githubusercontent.com/91433346/179712804-8614f4b1-7eea-41b6-93c9-c1b74c325696.jpeg)
 
 Clicking on either of the buttons will bring you to a page similar to one of these pages:
